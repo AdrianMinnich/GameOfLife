@@ -1,0 +1,49 @@
+﻿  pch.cpp
+  Board.cpp
+C:\Users\adrja\Desktop\GameOfLife - my backup\GameOfLife\Board.cpp(172,62): warning C4244:  "argument": konwersja z "int" do "T", możliwa utrata danych
+C:\Users\adrja\Desktop\GameOfLife - my backup\GameOfLife\Board.cpp(172,62): warning C4244:         with
+C:\Users\adrja\Desktop\GameOfLife - my backup\GameOfLife\Board.cpp(172,62): warning C4244:         [
+C:\Users\adrja\Desktop\GameOfLife - my backup\GameOfLife\Board.cpp(172,62): warning C4244:             T=float
+C:\Users\adrja\Desktop\GameOfLife - my backup\GameOfLife\Board.cpp(172,62): warning C4244:         ]
+C:\Users\adrja\Desktop\GameOfLife - my backup\GameOfLife\Board.cpp(172,44): warning C4244:  "argument": konwersja z "int" do "T", możliwa utrata danych
+C:\Users\adrja\Desktop\GameOfLife - my backup\GameOfLife\Board.cpp(172,44): warning C4244:         with
+C:\Users\adrja\Desktop\GameOfLife - my backup\GameOfLife\Board.cpp(172,44): warning C4244:         [
+C:\Users\adrja\Desktop\GameOfLife - my backup\GameOfLife\Board.cpp(172,44): warning C4244:             T=float
+C:\Users\adrja\Desktop\GameOfLife - my backup\GameOfLife\Board.cpp(172,44): warning C4244:         ]
+C:\Users\adrja\Desktop\GameOfLife - my backup\GameOfLife\Board.cpp(177,62): warning C4244:  "argument": konwersja z "int" do "T", możliwa utrata danych
+C:\Users\adrja\Desktop\GameOfLife - my backup\GameOfLife\Board.cpp(177,62): warning C4244:         with
+C:\Users\adrja\Desktop\GameOfLife - my backup\GameOfLife\Board.cpp(177,62): warning C4244:         [
+C:\Users\adrja\Desktop\GameOfLife - my backup\GameOfLife\Board.cpp(177,62): warning C4244:             T=float
+C:\Users\adrja\Desktop\GameOfLife - my backup\GameOfLife\Board.cpp(177,62): warning C4244:         ]
+  Cell.cpp
+  GameOfLife.cpp
+C:\Users\adrja\Desktop\GameOfLife - my backup\GameOfLife\Board.cpp(177,44): warning C4244:  "argument": konwersja z "int" do "T", możliwa utrata danych
+C:\Users\adrja\Desktop\GameOfLife - my backup\GameOfLife\Board.cpp(177,44): warning C4244:         with
+C:\Users\adrja\Desktop\GameOfLife - my backup\GameOfLife\Board.cpp(177,44): warning C4244:         [
+C:\Users\adrja\Desktop\GameOfLife - my backup\GameOfLife\Board.cpp(177,44): warning C4244:             T=float
+C:\Users\adrja\Desktop\GameOfLife - my backup\GameOfLife\Board.cpp(177,44): warning C4244:         ]
+C:\Users\adrja\Desktop\GameOfLife - my backup\GameOfLife\GameOfLife.cpp(19,48): warning C4244:  "argument": konwersja z "T" do "float", możliwa utrata danych
+C:\Users\adrja\Desktop\GameOfLife - my backup\GameOfLife\GameOfLife.cpp(19,48): warning C4244:         with
+C:\Users\adrja\Desktop\GameOfLife - my backup\GameOfLife\GameOfLife.cpp(19,48): warning C4244:         [
+C:\Users\adrja\Desktop\GameOfLife - my backup\GameOfLife\GameOfLife.cpp(19,48): warning C4244:             T=unsigned int
+C:\Users\adrja\Desktop\GameOfLife - my backup\GameOfLife\GameOfLife.cpp(19,48): warning C4244:         ]
+C:\Users\adrja\Desktop\GameOfLife - my backup\GameOfLife\GameOfLife.cpp(19,28): warning C4244:  "argument": konwersja z "T" do "float", możliwa utrata danych
+C:\Users\adrja\Desktop\GameOfLife - my backup\GameOfLife\GameOfLife.cpp(19,28): warning C4244:         with
+C:\Users\adrja\Desktop\GameOfLife - my backup\GameOfLife\GameOfLife.cpp(19,28): warning C4244:         [
+C:\Users\adrja\Desktop\GameOfLife - my backup\GameOfLife\GameOfLife.cpp(19,28): warning C4244:             T=unsigned int
+C:\Users\adrja\Desktop\GameOfLife - my backup\GameOfLife\GameOfLife.cpp(19,28): warning C4244:         ]
+C:\Users\adrja\Desktop\GameOfLife - my backup\GameOfLife\GameOfLife.cpp(21,49): warning C4244:  "argument": konwersja z "T" do "float", możliwa utrata danych
+C:\Users\adrja\Desktop\GameOfLife - my backup\GameOfLife\GameOfLife.cpp(21,49): warning C4244:         with
+C:\Users\adrja\Desktop\GameOfLife - my backup\GameOfLife\GameOfLife.cpp(21,49): warning C4244:         [
+C:\Users\adrja\Desktop\GameOfLife - my backup\GameOfLife\GameOfLife.cpp(21,49): warning C4244:             T=unsigned int
+C:\Users\adrja\Desktop\GameOfLife - my backup\GameOfLife\GameOfLife.cpp(21,49): warning C4244:         ]
+  Menu.cpp
+  PatternEncoder.cpp
+C:\Users\adrja\Desktop\GameOfLife - my backup\GameOfLife\GameOfLife.cpp(21,29): warning C4244:  "argument": konwersja z "T" do "float", możliwa utrata danych
+C:\Users\adrja\Desktop\GameOfLife - my backup\GameOfLife\GameOfLife.cpp(21,29): warning C4244:         with
+C:\Users\adrja\Desktop\GameOfLife - my backup\GameOfLife\GameOfLife.cpp(21,29): warning C4244:         [
+C:\Users\adrja\Desktop\GameOfLife - my backup\GameOfLife\GameOfLife.cpp(21,29): warning C4244:             T=unsigned int
+C:\Users\adrja\Desktop\GameOfLife - my backup\GameOfLife\GameOfLife.cpp(21,29): warning C4244:         ]
+  Generowanie kodu...
+C:\Users\adrja\Desktop\GameOfLife - my backup\GameOfLife\PatternEncoder.cpp(45,22): warning C4244:  "argument": konwersja z "const uintmax_t" do "const unsigned int", możliwa utrata danych
+  GameOfLife.vcxproj -> C:\Users\adrja\Desktop\GameOfLife - my backup\Debug\GameOfLife.exe
